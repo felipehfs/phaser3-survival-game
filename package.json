@@ -1,0 +1,24 @@
+{
+  "name": "survival-game",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "rm -rf ./dist && parcel build src/index.html --no-source-maps --public-url ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.55.2",
+    "phaser-matter-collision-plugin": "^1.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "parcel-reporter-static-files-copy": "^1.5.0"
+  },
+  "staticFiles": {
+    "staticPath": "src/assets",
+    "staticOutPath": "assets"
+  }
+}

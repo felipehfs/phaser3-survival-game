@@ -1,0 +1,136 @@
+{
+    "anims": [
+        {
+            "key": "death",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_54"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_55"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_56"
+                }
+            ]
+        },
+        {
+            "key": "player_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_18"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_19"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_20"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_21"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_22"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_23"
+                }
+            ]
+        },
+        {
+            "key": "player_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_13"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_12"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_14"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_15"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_16"
+                }
+            ]
+        },
+        {
+            "key": "player_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_7"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_6"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_8"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_9"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_10"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_11"
+                }
+            ]
+        },
+        {
+            "key": "idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_0"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_1"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_2"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,671 @@
+{
+    "frames": [
+        {
+            "filename": "player_0",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_17",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 48,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_1",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 0,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_2",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 48,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_3",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 96,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_4",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 96,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_5",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 0,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_7",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 48,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_6",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 96,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_8",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 144,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_9",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 144,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_10",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 144,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_11",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 0,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_13",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 48,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_12",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 96,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_14",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 144,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_15",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 192,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_16",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 192,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_18",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 192,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_19",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 192,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_20",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 0,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_21",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 48,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_22",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 96,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_23",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 144,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_24",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 192,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_25",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 240,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_26",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 240,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_27",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 240,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_28",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 240,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_29",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 240,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_30",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 0,
+                "y": 240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_31",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 48,
+                "y": 240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_32",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 96,
+                "y": 240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_33",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 144,
+                "y": 240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_34",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 192,
+                "y": 240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_35",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 240,
+                "y": 240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_36",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 288,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_37",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 288,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_38",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 288,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_39",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 288,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_42",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 288,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_43",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 288,
+                "y": 240
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_44",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 0,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_45",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 48,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_48",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 96,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_49",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 144,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_50",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 192,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_51",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 240,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_54",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 288,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_55",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 336,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        },
+        {
+            "filename": "player_56",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 336,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.8
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
